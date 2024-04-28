@@ -170,6 +170,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+<<<<<<< HEAD
 		(at 130.81 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -256,6 +257,8 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+=======
+>>>>>>> 82ceba2b38b53d2a58b876349f3520fbc8ceea84
 		(at 116.84 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -340,6 +343,7 @@
 			)
 		)
 	)
+<<<<<<< HEAD
 	(symbol
 		(lib_id "Diode:1N4148")
 		(at 130.81 74.93 0)
@@ -512,6 +516,8 @@
 			)
 		)
 	)
+=======
+>>>>>>> 82ceba2b38b53d2a58b876349f3520fbc8ceea84
 	(sheet_instances
 		(path "/"
 			(page "1")
